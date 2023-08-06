@@ -22,7 +22,7 @@ Collabrated as:
 * Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)
 
 [Become a patron](https://patreon.com/efekos) for:
-* Special role on []()
+* Special role on [Discord](https://discord.gg/8PPgcmYNf4)
 * Early-Accesses
 * Beginneer tutorials
 * Templates / Schemas

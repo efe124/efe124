@@ -4,7 +4,7 @@ That quiet kid writing code.
 ## About
 He/Him\
 26/02/2010 (13)\
-[Istanbul](www.google.com/search?q=İstanbul) / [Turkey](www.google.com/search?q=Türkiye)
+[Istanbul](https://google.com/search?q=İstanbul) / [Turkey](https://www.google.com/search?q=Türkiye)
 
 ## Some Projects
 

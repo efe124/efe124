@@ -1,7 +1,26 @@
 # efekos
 That quiet kid writing code.
 
+## About
 He/Him\
+26/02/2010 (13)\
+[Istanbul](www.google.com/search?q=İstanbul) / [Turkey](www.google.com/search?q=Türkiye)
+
+## Some Projects
+
+| Name | Type | Main Stat |
+|------|------|-----------|
+| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 700+ Downloads |
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 150+ Downloads
+| [CategoRole](https://top.gg/bot/1000132133903409262) | Discord Bot made with [discord.js](https://discord.js.org/) | 2 Votes (yep not that popular but cool actually)
+
+
+## Collabration
+
+Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)
+
+## More About
+
 Multi-Lingual Developer. Works mainly in `Java`/`Node.js`. Also interested in
 * Pixel Art with Aseprite
 * Friday Night Funkin'
@@ -18,18 +37,23 @@ Knows the following languages enough to make something using them:
 * HTML
 * Lua
 
-Collabrated as:
-* Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)
+## Supporting
 
-[Become a patron](https://patreon.com/efekos) for:
-* Special role on [Discord](https://discord.gg/8PPgcmYNf4)
+### Little Boy
 * Early-Accesses
-* Beginneer tutorials
-* Templates / Schemas
-* Events with prizes depending on income
+* Special role on [Discord](https://discord.gg/8PPgcmYNf4)
 * Priority at any kind of communication
 
-(I do not share something at Patreon acc or on Discord. Because there are no patrons yet.)
+### Big Man
+* Begineer Tutorials
+* Templates / Schemas
+* Events with prizes depending on income
+* More priority at any kind of communication
+
+
+[Buy me a coffee](https://www.buymeacoffee.com/efekos) for `Little Boy`'s perks
+
+[Become a patron](https://patreon.com/efekos) for both `Little Boy`'s and `Big Man`'s perks
 
 ## Other accounts that I post some stuff
 

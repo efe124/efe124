@@ -11,7 +11,7 @@ He/Him\
 | Name | Type | Main Stat |
 |------|------|-----------|
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 700+ Downloads |
-| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 150+ Downloads
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 150+ Installs
 | [CategoRole](https://top.gg/bot/1000132133903409262) | Discord Bot made with [discord.js](https://discord.js.org/) | 2 Votes (yep not that popular but cool actually)
 
 

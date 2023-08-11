@@ -12,7 +12,8 @@ He/Him\
 |------|------|-----------|
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 700+ Downloads |
 | [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 150+ Installs
-| [CategoRole](https://top.gg/bot/1000132133903409262) | Discord Bot made with [discord.js](https://discord.js.org/) | 2 Votes (yep not that popular but cool actually)
+| [CategoRole](https://top.gg/bot/1000132133903409262) | Discord Bot made with [discord.js](https://discord.js.org/) | 2 Votes (yep not that popular but cool actually go check it out) |
+| [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1000+ Downloads |
 
 
 ## Collabration

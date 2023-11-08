@@ -10,8 +10,8 @@ He/Him\
 
 | Name | Type | Main Stat |
 |------|------|-----------|
-| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 700+ Downloads |
-| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 150+ Installs
+| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 800+ Downloads |
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 350+ Installs
 | [CategoRole](https://top.gg/bot/1000132133903409262) | Discord Bot made with [discord.js](https://discord.js.org/) | 2 Votes (yep not that popular but cool actually go check it out) |
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1000+ Downloads |
 
@@ -23,11 +23,11 @@ Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)
 ## More About
 
 Multi-Lingual Developer. Works mainly in `Java`/`Node.js`. Also interested in
-* Pixel Art with Aseprite
+* Pixel Art
 * Friday Night Funkin'
 * 2D Animations with Adobe Animate
 * Applications with C#
-* Full-Stack Development with Express/React (may change to other modules in the future).
+* Full-Stack Development
 
 Knows the following languages enough to make something using them:
 * Java
@@ -40,24 +40,23 @@ Knows the following languages enough to make something using them:
 
 ## Supporting
 
-### Little Boy
+### Iron Tier
 * Early-Accesses
 * Special role on [Discord](https://discord.gg/8PPgcmYNf4)
 * Priority at any kind of communication
 
-### Big Man
-* Begineer Tutorials
+### Gold Tier
 * Templates / Schemas
-* Events with prizes depending on income
 * More priority at any kind of communication
 
 
-[Buy me a coffee](https://www.buymeacoffee.com/efekos) for `Little Boy`'s perks
+[Buy me a coffee](https://www.buymeacoffee.com/efekos) for `Iron Tier`'s perks
 
-[Become a patron](https://patreon.com/efekos) for both `Little Boy`'s and `Big Man`'s perks
+[Become a patron](https://patreon.com/efekos) for both `Iron Tier`'s and `Gold Tier`'s perks
 
 ## Other accounts that I post some stuff
 
-[Discord](https://discord.gg/8PPgcmYNf4)\
+[Discord Server](https://discord.gg/8PPgcmYNf4)\
 [CurseForge](https://legacy.curseforge.com/members/efekos0/projects)\
-[SpigotMC](https://www.spigotmc.org/members/efekos.1519254/)
+[SpigotMC](https://www.spigotmc.org/members/efekos.1519254/)\
+[Modrinth](https://modrinth.com/user/efekos)

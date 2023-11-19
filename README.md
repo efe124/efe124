@@ -16,9 +16,10 @@ He/Him\
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1000+ Downloads |
 
 
-## Collabration
+## Contribution
 
 Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)
+Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker-Fabric)
 
 ## More About
 

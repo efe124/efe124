@@ -19,7 +19,7 @@ He/Him\
 ## Contribution
 
 Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)\
-Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker-Fabric)
+Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)
 
 ## More About
 

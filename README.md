@@ -23,12 +23,7 @@ Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-C
 
 ## More About
 
-Multi-Lingual Developer. Works mainly in `Java`/`Node.js`. Also interested in
-* Pixel Art
-* Friday Night Funkin'
-* 2D Animations with Adobe Animate
-* Applications with C#
-* Full-Stack Development
+Multi-Lingual Developer. Works mainly in `Java`/`Node.js`.
 
 Knows the following languages enough to make something using them:
 * Java

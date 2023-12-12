@@ -20,10 +20,10 @@ He/Him\
 
 ## Best Projects (Most worked)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)\
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=UserCrates&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Simpler)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/AwakenSMPOnline)\
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Classes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=UserCrates&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/UserCrates)
 
 ## Contribution
 

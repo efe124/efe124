@@ -1,7 +1,7 @@
 # efekos
 That quiet kid writing code.
 
-![](https://github-readme-stats.vercel.app/api?username=efekos&count_private=true&hide=issues&show_icons=true&custom_title=Github%20Stats)
+![](https://github-readme-stats.vercel.app/api?username=efekos&count_private=true&hide=issues&show_icons=true&custom_title=Github%20Stats&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
 
 
 ## About
@@ -20,10 +20,10 @@ He/Him\
 
 ## Best Projects (Most worked)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&theme=dark)\
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=UserCrates&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)\
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=UserCrates&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
 
 ## Contribution
 
@@ -43,7 +43,7 @@ Knows the following languages enough to make something using them:
 * HTML
 * Lua
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=efekos)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=efekos&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
 
 ## Supporting
 

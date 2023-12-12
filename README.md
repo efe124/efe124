@@ -1,13 +1,16 @@
 # efekos
 That quiet kid writing code.
 
+![](https://github-readme-stats.vercel.app/api?username=efekos&count_private=true&hide=issues&show_icons=true&custom_title=Github%20Stats)
+
+
 ## About
 He/Him\
 26/02/2010 (13)\
 [Istanbul](https://google.com/search?q=İstanbul) / [Turkey](https://www.google.com/search?q=Türkiye)
 
-## Some Projects
-
+## Best Projects (Counts)
+            
 | Name | Type | Main Stat |
 |------|------|-----------|
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 800+ Downloads |
@@ -15,11 +18,17 @@ He/Him\
 | [CategoRole](https://top.gg/bot/1000132133903409262) | Discord Bot made with [discord.js](https://discord.js.org/) | 2 Votes (yep not that popular but cool actually go check it out) |
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1000+ Downloads |
 
+## Best Projects (Most worked)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&theme=dark)\
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=UserCrates&theme=dark)
 
 ## Contribution
 
-Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)\
-Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)\
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)
 
 ## More About
 
@@ -34,6 +43,8 @@ Knows the following languages enough to make something using them:
 * HTML
 * Lua
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=efekos)
+
 ## Supporting
 
 ### Iron Tier
@@ -45,12 +56,11 @@ Knows the following languages enough to make something using them:
 * Templates / Schemas
 * More priority at any kind of communication
 
-
 [Buy me a coffee](https://www.buymeacoffee.com/efekos) for `Iron Tier`'s perks
 
 [Become a patron](https://patreon.com/efekos) for both `Iron Tier`'s and `Gold Tier`'s perks
 
-## Other accounts that I post some stuff
+## Other accounts that I post projects
 
 [Discord Server](https://discord.gg/8PPgcmYNf4)\
 [CurseForge](https://legacy.curseforge.com/members/efekos0/projects)\

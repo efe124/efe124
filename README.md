@@ -28,7 +28,7 @@ He/Him\
 ## Contribution
 
 <img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)\
 <img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [misode.github.io](https://github.com/misode/misode.github.io)
 
 ## More About

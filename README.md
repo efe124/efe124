@@ -14,11 +14,11 @@ He/Him\
 | Name | Type | Main Stat |
 |------|------|-----------|
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1000+ Downloads |
-| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 450+ Installs
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhub) | Minecraft mod made with Fabric | 200 Downloads |
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 500+ Installs
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 200 Downloads |
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1200+ Downloads |
 
-## Best Projects (Most worked)
+## Best Projects (Effort)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Simpler)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/AwakenSMPOnline)\

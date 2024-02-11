@@ -1,0 +1,25 @@
+<!--
+MIT LICENSE
+
+Copyright 2024 efekos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the “Software”), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+    
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+-->
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.5 9.05882V2.35294H1V1.88235L1.5 1.41176H3.5V0.470588L4 0H6L6.5 0.470588V1.41176H8.5L9 1.88235V2.35294H8.5V9.05882L7.5 10H2.5L1.5 9.05882ZM3 8.58824L3.5 9.05882L4 8.58824V2.82353L3.5 2.35294L3 2.82353V8.58824ZM6.5 9.05882L7 8.58824V2.82353L6.5 2.35294L6 2.82353V8.58824L6.5 9.05882ZM4 0.941176V1.41176H6V0.941176L5.5 0.5H4.5L4 0.941176Z" fill="#C5C5C5"/>
+</svg>

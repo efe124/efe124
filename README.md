@@ -1,7 +1,7 @@
 # efekos
 That quiet kid writing code.
 
-![](https://github-readme-stats.vercel.app/api?username=efekos&count_private=true&hide=issues&show_icons=true&custom_title=Github%20Stats&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)
+![](https://github-readme-stats.vercel.app/api?username=efekos&count_private=true&hide=issues&show_icons=true&custom_title=Github%20Stats&bg_color=0b0d17&text_color=fcfdff&border_color=272c46&include_all_commits=true)
 
 
 ## About
@@ -61,7 +61,7 @@ Knows the following languages enough to make something using them:
 
 [Become a patron](https://patreon.com/efekos) for both `Iron Tier`'s and `Gold Tier`'s perks
 
-## Other accounts that I post projects
+## Other places that I post projects
 
 [Discord Server](https://discord.gg/8PPgcmYNf4)\
 [CurseForge](https://legacy.curseforge.com/members/efekos0/projects)\

@@ -6,7 +6,7 @@ That quiet kid writing code.
 
 ## About
 He/Him\
-26/02/2010 (14) 🎉🎉\
+26/02/2010 (14)\
 [Istanbul](https://google.com/search?q=İstanbul) / [Turkey](https://www.google.com/search?q=Türkiye)
 
 ## Best Projects (Counts)
@@ -23,7 +23,7 @@ He/Him\
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Simpler)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/AwakenSMPOnline)\
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Classes)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=UserCrates&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/UserCrates)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=PortfolioGenerator&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/UserCrates)
 
 ## Contribution
 

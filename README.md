@@ -3,6 +3,7 @@ That quiet kid writing code.
 
 ![](https://github-readme-stats.vercel.app/api?username=efekos&count_private=true&show_icons=true&custom_title=Github%20Stats&bg_color=0b0d17&text_color=fcfdff&border_color=272c46&include_all_commits=true)
 
+![](https://github-profile-trophy.vercel.app/?username=efekos)
 
 ## About
 He/Him\

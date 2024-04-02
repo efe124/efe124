@@ -14,9 +14,9 @@ He/Him\
             
 | Name | Type | Main Stat |
 |------|------|-----------|
-| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1000+ Downloads |
-| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 500+ Installs
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 200 Downloads |
+| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1100+ Downloads |
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 600+ Installs
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 300+ Downloads |
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1200+ Downloads |
 
 ## Best Projects (Effort)

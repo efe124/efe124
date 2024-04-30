@@ -10,13 +10,62 @@ He/Him\
 26/02/2010 (14)\
 [Istanbul](https://google.com/search?q=İstanbul) / [Turkey](https://www.google.com/search?q=Türkiye)
 
+Everything I used before:
+
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=flat&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-black?style=flat&logo=vite)
+![Lua](https://img.shields.io/badge/Lua-black?style=flat&logo=lua)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
+![C#](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)
+![Spigot](https://img.shields.io/badge/Spigot-black?style=flat&logo=spigotmc)
+![Fabric](https://img.shields.io/badge/Fabric-black?style=flat&logo=fabricmc)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwindcss)
+![Discord.js](https://img.shields.io/badge/Discord.js-black?style=flat&logo=discord)
+![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring-boot)
+![Blender](https://img.shields.io/badge/Blender-black?style=flat&logo=blender)
+![Quick.db](https://img.shields.io/badge/Quick.db-black?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=apache-maven)
+![Gradle](https://img.shields.io/badge/Gradle-black?style=flat)
+![Roblox--TS](https://img.shields.io/badge/Roblox--TS-black?style=flat&logo=roblox)
+![Aseprite](https://img.shields.io/badge/Aseprite-black?style=flat&logo=aseprite)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-black?style=flat&logo=windows)
+
+All my accounts:
+
+[![Youtube](https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube)](https://efekos.dev/youtube)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://efekos.dev/github)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://efekos.dev/twitter)
+[![Modrinth](https://img.shields.io/badge/Modrinth-black?style=flat&logo=Modrinth)](https://efekos.dev/modrinth)
+[![Curseforge](https://img.shields.io/badge/Curseforge-black?style=flat&logo=Curseforge)](https://efekos.dev/curseforge)
+[![Twitch](https://img.shields.io/badge/Twitch-black?style=flat&logo=twitch)](https://efekos.dev/twitch)
+[![Kick](https://img.shields.io/badge/Kick-black?style=flat&logo=Kick)](https://efekos.dev/kick)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-black?style=flat&logo=discord)](https://efekos.dev/discord)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-black?style=flat&logo=spigotmc)](https://efekos.dev/spigotmc)
+[![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon)](https://efekos.dev/patreon)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-black?style=flat&logo=buymeacoffee)](https://efekos.dev/bmac)
+[![Reddit](https://img.shields.io/badge/Reddit-black?style=flat&logo=reddit)](https://reddit.com/user/efekos0)
+[![NPM](https://img.shields.io/badge/NPM-black?style=flat&logo=npm)](https://npmjs.com/~efekos)
+[![VSCode Marketplace](https://img.shields.io/badge/VSCode%20Marketplace-black?style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/publishers/efekos)
+
+
 ## Best Projects (Counts)
             
 | Name | Type | Main Stat |
 |------|------|-----------|
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1100+ Downloads |
 | [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 600+ Installs
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 300+ Downloads |
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 400+ Downloads |
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1200+ Downloads |
 
 ## Best Projects (Effort)
@@ -30,7 +79,8 @@ He/Him\
 
 <img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)\
 <img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [misode.github.io](https://github.com/misode/misode.github.io)
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [misode.github.io](https://github.com/misode/misode.github.io)\
+<img src="./contributor.svg" width="25" height="25" /> Code Contributor (2 ![](./mergedpr.svg)) for [misode.github.io](https://github.com/misode/misode.github.io)
 
 ## More About
 

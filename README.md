@@ -71,16 +71,17 @@ All my accounts:
 ## Best Projects (Effort)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Simpler)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=AwakenSMPOnline&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/AwakenSMPOnline)\
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Classes&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Classes)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=PortfolioGenerator&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/UserCrates)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Arn&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Arn)\
+[![](https://github-readme-stats.vercel.app/api/pin/?username=syntax-script&repo=compiler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/syntax-script/compiler)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=PortfolioGenerator&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/PortfolioGenerator)
 
 ## Contribution
 
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Skoice](https://github.com/Skoice/skoice)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) for [misode.github.io](https://github.com/misode/misode.github.io)\
-<img src="./contributor.svg" width="25" height="25" /> Code Contributor (2 ![](./mergedpr.svg)) for [misode.github.io](https://github.com/misode/misode.github.io)
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [Skoice](https://github.com/Skoice/skoice)\
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)\
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)\
+<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [misode.github.io](https://github.com/misode/misode.github.io)\
+<img src="./contributor.svg" width="25" height="25" /> Code Contributor (2 ![](./mergedpr.svg)) at [misode.github.io](https://github.com/misode/misode.github.io)
 
 ## More About
 

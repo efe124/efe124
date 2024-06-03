@@ -77,10 +77,8 @@ All my accounts:
 
 ## Contribution
 
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [Skoice](https://github.com/Skoice/skoice)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [Resource Cracker](https://github.com/Stein-N/Resource-Cracker)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)\
-<img src="./translator.svg" width="25" height="25" /> Translator (EN->TR) at [misode.github.io](https://github.com/misode/misode.github.io)\
+<img src="./translator.svg" width="25" height="25" /> Translated English text to Turkish at [Skoice](https://github.com/Skoice/skoice),[Resource Cracker](https://github.com/Stein-N/Resource-Cracker),[Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)
+and [misode.github.io](https://github.com/misode/misode.github.io).
 <img src="./contributor.svg" width="25" height="25" /> Code Contributor (2 ![](./mergedpr.svg)) at [misode.github.io](https://github.com/misode/misode.github.io)
 
 ## More About

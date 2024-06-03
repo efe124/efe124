@@ -7,8 +7,8 @@ That quiet kid writing code.
 
 ## About
 He/Him\
-26/02/2010 (14)\
-[Istanbul](https://google.com/search?q=İstanbul) / [Turkey](https://www.google.com/search?q=Türkiye)
+26th Feb
+[Turkey](https://www.google.com/search?q=Türkiye)
 
 Everything I used before:
 

@@ -100,6 +100,8 @@ Knows the following languages enough to make something using them:
 
 ## Supporting
 
+You can support me to help me making more advanced projects, such as ones involving cloud-saving on a database, a server or an active website.
+
 ### Iron Tier
 * Early-Accesses
 * Special role on [Discord](https://discord.gg/8PPgcmYNf4)

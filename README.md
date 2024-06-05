@@ -7,7 +7,7 @@ That quiet kid writing code.
 
 ## About
 He/Him\
-26th Feb
+26th Feb\
 [Turkey](https://www.google.com/search?q=Türkiye)
 
 Everything I used before:
@@ -77,8 +77,8 @@ All my accounts:
 
 ## Contribution
 
-<img src="./translator.svg" width="25" height="25" /> Translated English text to Turkish at [Skoice](https://github.com/Skoice/skoice),[Resource Cracker](https://github.com/Stein-N/Resource-Cracker),[Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)
-and [misode.github.io](https://github.com/misode/misode.github.io).
+<img src="./translator.svg" width="25" height="25" /> Translator (🇺🇸->🇹🇷) at [Skoice](https://github.com/Skoice/skoice),[Resource Cracker](https://github.com/Stein-N/Resource-Cracker),[Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)
+and [misode.github.io](https://github.com/misode/misode.github.io).\
 <img src="./contributor.svg" width="25" height="25" /> Code Contributor (2 ![](./mergedpr.svg)) at [misode.github.io](https://github.com/misode/misode.github.io)
 
 ## More About
@@ -100,18 +100,15 @@ Knows the following languages enough to make something using them:
 
 You can support me to help me making more advanced projects, such as ones involving cloud-saving on a database, a server or an active website.
 
-### Iron Tier
+### BMAC Donators
 * Early-Accesses
 * Special role on [Discord](https://discord.gg/8PPgcmYNf4)
 * Priority at any kind of communication
 
-### Gold Tier
+### Patreon Supporters
+* Everything on BMAC Donators
 * Templates / Schemas
 * More priority at any kind of communication
-
-[Buy me a coffee](https://www.buymeacoffee.com/efekos) for `Iron Tier`'s perks
-
-[Become a patron](https://patreon.com/efekos) for both `Iron Tier`'s and `Gold Tier`'s perks
 
 ## Other places that I post projects
 

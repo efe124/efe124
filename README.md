@@ -64,8 +64,8 @@ All my accounts:
 | Name | Type | Main Stat |
 |------|------|-----------|
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1100+ Downloads |
-| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 600+ Installs
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 400+ Downloads |
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 800+ Installs
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 600+ Downloads |
 | [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1200+ Downloads |
 
 ## Best Projects (Effort)
@@ -77,7 +77,7 @@ All my accounts:
 
 ## Contribution
 
-<img src="./translator.svg" width="25" height="25" /> Translator (🇺🇸->🇹🇷) at [Skoice](https://github.com/Skoice/skoice),[Resource Cracker](https://github.com/Stein-N/Resource-Cracker),[Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)
+<img src="./translator.svg" width="25" height="25" /> Translator (🇺🇸->🇹🇷) at [Continuity](https://github.com/PepperCode1/Continuity),[Skoice](https://github.com/Skoice/skoice),[Resource Cracker](https://github.com/Stein-N/Resource-Cracker),[Resource Nether Ores Cracker](https://github.com/Stein-N/Resource-Nether-Ores)
 and [misode.github.io](https://github.com/misode/misode.github.io).\
 <img src="./contributor.svg" width="25" height="25" /> Code Contributor (2 ![](./mergedpr.svg)) at [misode.github.io](https://github.com/misode/misode.github.io)
 

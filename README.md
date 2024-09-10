@@ -6,9 +6,7 @@ That quiet kid writing code.
 ![](https://github-profile-trophy.vercel.app/?username=efekos)
 
 ## About
-He/Him\
-26th Feb\
-[Turkey](https://www.google.com/search?q=Türkiye)
+He/Him, 26th of Feb, from [Turkey](https://www.google.com/search?q=Türkiye).
 
 Everything I used before:
 
@@ -26,6 +24,7 @@ Everything I used before:
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwindcss)
 ![Discord.js](https://img.shields.io/badge/Discord.js-black?style=flat&logo=discord)
+![JDA](https://img.shields.io/badge/JDA-black?style=flat&logo=discord)
 ![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
@@ -60,13 +59,14 @@ All my accounts:
 
 
 ## Best Projects (Counts)
-            
+last updated: 10 Sep
+
 | Name | Type | Main Stat |
 |------|------|-----------|
-| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1100+ Downloads |
-| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 800+ Installs
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 600+ Downloads |
-| [Dark Gui](https://legacy.curseforge.com/minecraft/texture-packs/dark-gui-by-efekos) | Texture pack for Minecraft | 1200+ Downloads |
+| [FancyHealthBar](https://modrinth.com/mod/fancy-health-bar) | Minecraft Mod made for Fabric | 16k+ Downloads |
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 2.2k+ Downloads |
+| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1.5k Downloads |
+| [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 1k+ Installs
 
 ## Best Projects (Effort)
 

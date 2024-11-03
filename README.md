@@ -59,19 +59,19 @@ All my accounts:
 
 
 ## Best Projects (Counts)
-last updated: 10 Sep
+*last updated: 3 Nov*
 
 | Name | Type | Main Stat |
 |------|------|-----------|
-| [FancyHealthBar](https://modrinth.com/mod/fancy-health-bar) | Minecraft Mod made for Fabric | 16k+ Downloads |
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 2.2k+ Downloads |
+| [FancyHealthBar](https://modrinth.com/mod/fancy-health-bar) | Minecraft Mod made with Fabric | 25k+ Downloads |
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 3.3k+ Downloads |
 | [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1.5k Downloads |
 | [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 1k+ Installs
 
 ## Best Projects (Effort)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Simpler)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Arn&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Arn)\
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Arn&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Arn)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=Simpler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/Simpler)\
 [![](https://github-readme-stats.vercel.app/api/pin/?username=syntax-script&repo=compiler&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/syntax-script/compiler)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efekos&repo=PortfolioGenerator&bg_color=0b0d17&text_color=fcfdff&border_color=272c46)](https://github.com/efekos/PortfolioGenerator)
 
@@ -98,17 +98,12 @@ Knows the following languages enough to make something using them:
 
 ## Supporting
 
-You can support me to help me making more advanced projects, such as ones involving cloud-saving on a database, a server or an active website.
+You can support me to motivate me and help me making more advanced projects, such as ones involving cloud features. You'll also get these perks:
 
-### BMAC Donators
-* Early-Accesses
-* Special role on [Discord](https://discord.gg/8PPgcmYNf4)
-* Priority at any kind of communication
+* Special role on [Discord](https://efekos.dev/discord)
+* Early-accesses
+* Priority over other people when you want to contact me
 
-### Patreon Supporters
-* Everything on BMAC Donators
-* Templates / Schemas
-* More priority at any kind of communication
 
 ## Other places that I post projects
 

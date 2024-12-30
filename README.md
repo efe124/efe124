@@ -59,13 +59,13 @@ All my accounts:
 
 
 ## Best Projects (Counts)
-*last updated: 3 Nov*
+*last updated: 30 Dec*
 
 | Name | Type | Main Stat |
 |------|------|-----------|
-| [FancyHealthBar](https://modrinth.com/mod/fancy-health-bar) | Minecraft Mod made with Fabric | 25k+ Downloads |
-| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 3.3k+ Downloads |
-| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1.5k Downloads |
+| [FancyHealthBar](https://modrinth.com/mod/fancy-health-bar) | Minecraft Mod made with Fabric | 39k+ Downloads |
+| [BetterArmorHUD](https://modrinth.com/mod/betterarmorhud) | Minecraft mod made with Fabric | 4.7k+ Downloads |
+| [AwakenSMPOnline](https://www.spigotmc.org/resources/awakensmp-online.102573/) | Minecraft Plugin made with Spigot | 1.6k Downloads |
 | [Minecraft Project Manager](https://marketplace.visualstudio.com/items?itemName=efekos.minecraft-project-manager) | Extension for Visual Studio Code | 1k+ Installs
 
 ## Best Projects (Effort)
